@@ -1,0 +1,5 @@
+Assets/Assets/WorkStation/YimeiBG006.fbx filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Assets/Assets/Workers/Ch17_nonPBR.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Sounds/394901__y3w-tree__warehouse.wav filter=lfs diff=lfs merge=lfs -text
+Assets/Assets/IGBlocks/IG_Warehouse/Scenes/AllPrefabs/LightingData.asset filter=lfs diff=lfs merge=lfs -text
+Assets/Assets/IGBlocks/IG_Warehouse/Scenes/WarehouseVeryBig/LightingData.asset filter=lfs diff=lfs merge=lfs -text
