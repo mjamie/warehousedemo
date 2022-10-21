@@ -25858,7 +25858,7 @@ MonoBehaviour:
   - {fileID: 1261290332}
   - {fileID: 1022364366}
   - {fileID: 1495030054}
-  outOfTImeTxt: {fileID: 0}
+  outOfTImeTxt: {fileID: 2018866556}
 --- !u!1001 &1447485278
 PrefabInstance:
   m_ObjectHideFlags: 0

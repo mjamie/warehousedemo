@@ -32,7 +32,7 @@ public class Timer : MonoBehaviour
 
                 IEnumerator Restart()
                 {
-                    yield return new WaitForSeconds(5);
+                    yield return new WaitForSeconds(10);
                     SceneManager.LoadScene(0);
                 }
             }
